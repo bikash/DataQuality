@@ -1,5 +1,28 @@
 # DataQuality
-Tutorial and examples of Data Quality in Big Data System
+Tutorial and examples of Data Quality in Big Data System.
+
+Data Quality metrics:
+- completeness
+ - commission
+ - omission
+- thematic accuracy
+ - thematic classification correctness
+ - non-quantitative attribute correctness
+ - qualintitative attribute accuracy
+- logical consistency
+ - conceptual consistency
+ - domain consistency
+ - format consistency
+ - topological consistency
+- temporal quality
+ - accuracy of a time measurement
+ - temporal consistency
+ - temporal validity
+- positional accuracy
+ - absolute external positional accuracy
+ - relative internal positional accuracy
+ - gridded data positional accuracy
+- usability
 
 
 
