@@ -6,5 +6,7 @@ Tutorial and examples of Data Quality in Big Data System
 Your contributions are always welcome!
 
 ## [Data Quality](#data-quality)
-   * [Griffin](https://github.com/eBay/griffin) - Data Quality solution for distributed data systems at any scale in both streaming and batch data context. Detect accuracy, Completeness, Validity, Timeliness, Anomaly detection and Data Profiling.
+   * [Griffin](https://github.com/eBay/griffin) - Data Quality solution for distributed data systems at any scale in both streaming and batch data context. Detect accuracy, Completeness, Validity, Timeliness, Anomaly detection and Data Profiling. (Recommended)
    * [drunken-data-quality](https://github.com/FRosner/drunken-data-quality) - provide data quality report using spark,Elasticsearch, Logstash and Kibana (ELK) and demo (https://github.com/FRosner/ddq-demo-elk)
+   * [DataQuality for BigData](https://github.com/agile-lab-dev/DataQuality) - a framework to build parallel and distributed quality checks on big data environments. It can be used to calculate metrics and perform checks to assure quality on structured or unstructured data. It relies entirely on Spark.
+   
